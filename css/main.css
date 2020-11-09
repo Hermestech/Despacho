@@ -1,9 +1,10 @@
 .btn-platzi{
-    background-color: #97c93e;
+    background-color: #F2B500;
+    /* background-color: #97c93e; */
     color: white;
 }
 .btn-platzi:hover {
-    background-color: #4c7408;
+    background-color: #947310;
 }
 #footer{
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
@@ -12,7 +13,7 @@
     color: white;
 }
 #header img {
-    width: 80px;
+    width: 60px;
 }
 #main .carousel-inner img {
     max-height: 70vh;
